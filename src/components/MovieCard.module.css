@@ -4,6 +4,10 @@
   text-align: center;
 }
 
+.movieCard:hover {
+  opacity: 0.8;
+}
+
 .movieImage {
   border-radius: 10px;
   background-color: azure;
