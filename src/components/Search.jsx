@@ -18,10 +18,10 @@ export function Search() {
         <input
           className={styles.searchInput}
           type="text"
-          value={search}
+          value={search ?? ""}
+          autoFocus
           placeholder="Title"
           aria-label="Search Movies"
-          autoFocus
           onChange={(e) => {
             const value = e.target.value;
             history.push("/?search=" + value);
