@@ -15,7 +15,7 @@ export function MoviesGrid({ search }) {
   return (
     <InfiniteScroll
       dataLength={movies.length}
-      hasMore={hasNextPage | isLoading}
+      hasMore={hasNextPage || isLoading}
       next={() => fetchNextPage()}
       loader={<Spinner />}
     >
