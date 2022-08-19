@@ -1,6 +1,6 @@
-# Aprende React.js desde CERO | Creando web de películas
+# Migrar de redux a Redux Toolkit (RTK) 🚀 | Tutorial paso a paso
 
-[![Aprende React.js desde CERO | Creando web de películas](https://img.youtube.com/vi/hdgUDN1sgtA/0.jpg)](https://www.youtube.com/watch?v=hdgUDN1sgtA "Aprende React.js desde CERO | Creando web de películas")
+[![Migrar de redux a Redux Toolkit (RTK) 🚀 | Tutorial paso a paso](https://img.youtube.com/vi/_EOjiX6RmPE/0.jpg)](https://www.youtube.com/watch?v=_EOjiX6RmPE "Migrar de redux a Redux Toolkit (RTK) 🚀 | Tutorial paso a paso")
 
 <hr>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
